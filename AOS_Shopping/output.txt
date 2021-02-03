@@ -1,0 +1,34 @@
+Virtual User Script started at: 2/1/2021 11:02:28 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 2019; build 430 (Jan 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT)  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\demo\Documents\VuGen\Scripts\dummy-vugen\AOS_Shopping\\default.cfg"  	[MsgId: MMSG-27141]
+The addtional attribute TranTime was set to 2.000000
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 2  	[MsgId: MMSG-26989]
+Starting action T00_AOS.
+T00_AOS.c(34): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.6634).
+T00_AOS.c(38): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(40): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 12.0480).
+T00_AOS.c(42): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(75): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 3.6858).
+Ending action T00_AOS.
+Ending iteration 1.
+Waiting 9.3960 seconds for iteration pacing.
+Starting iteration 2.
+Starting action T00_AOS.
+T00_AOS.c(34): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.5244).
+T00_AOS.c(38): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(40): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.6401).
+T00_AOS.c(42): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(61): Notify: Transaction "T03_Purchase" ended with a "Stop" status (Duration: 4.6667).
+Abort was called from an action.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

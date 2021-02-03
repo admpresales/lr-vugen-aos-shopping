@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\demo\Documents\VuGen\Scripts\dummy-vugen\AOS_Shopping
+-IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
+-ec:\users\demo\documents\vugen\scripts\dummy-vugen\aos_shopping\\logfile.log
+c:\users\demo\documents\vugen\scripts\dummy-vugen\aos_shopping\\combined_AOS_Shopping.c
+c:\users\demo\documents\vugen\scripts\dummy-vugen\aos_shopping\\pre_cci.c

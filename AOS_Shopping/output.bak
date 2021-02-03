@@ -1,0 +1,198 @@
+Virtual User Script started at: 1/21/2021 5:35:20 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 2019; build 430 (Jan 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT)  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\demo\Documents\VuGen\Scripts\dummy-vugen\AOS_Shopping\\default.cfg"  	[MsgId: MMSG-27141]
+The addtional attribute TranTime was set to 2.000000
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 2  	[MsgId: MMSG-26989]
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.4552).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 8.5231).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 5.3847).
+Ending action T00_AOS.
+Ending iteration 1.
+Waiting 11.8730 seconds for iteration pacing.
+Starting iteration 2.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.5142).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.2790).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 3.7727).
+Ending action T00_AOS.
+Ending iteration 2.
+Waiting 11.9760 seconds for iteration pacing.
+Starting iteration 3.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.4851).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 10.5322).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 3.5269).
+Ending action T00_AOS.
+Ending iteration 3.
+Waiting 11.0020 seconds for iteration pacing.
+Starting iteration 4.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.4746).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 10.1018).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 5.1164).
+Ending action T00_AOS.
+Ending iteration 4.
+Waiting 9.9120 seconds for iteration pacing.
+Starting iteration 5.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.5565).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 10.2998).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 6.1039).
+Ending action T00_AOS.
+Ending iteration 5.
+Waiting 9.6880 seconds for iteration pacing.
+Starting iteration 6.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.6805).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 10.6170).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 7.0869).
+Ending action T00_AOS.
+Ending iteration 6.
+Waiting 7.2960 seconds for iteration pacing.
+Starting iteration 7.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.9276).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.5629).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 7.9744).
+Ending action T00_AOS.
+Ending iteration 7.
+Waiting 7.2620 seconds for iteration pacing.
+Starting iteration 8.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.1012).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 8.0884).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 10.4962).
+Ending action T00_AOS.
+Ending iteration 8.
+Waiting 7.0280 seconds for iteration pacing.
+Starting iteration 9.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.2260).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.8559).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 9.2434).
+Ending action T00_AOS.
+Ending iteration 9.
+Waiting 6.3930 seconds for iteration pacing.
+Starting iteration 10.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.9314).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.0118).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 11.0683).
+Ending action T00_AOS.
+Ending iteration 10.
+Waiting 5.7160 seconds for iteration pacing.
+Starting iteration 11.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.0615).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.0067).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 14.6277).
+Ending action T00_AOS.
+Ending iteration 11.
+Waiting 2.0040 seconds for iteration pacing.
+Starting iteration 12.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 4.3286).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 8.3564).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 15.3476).
+Ending action T00_AOS.
+Ending iteration 12.
+Waiting 1.7360 seconds for iteration pacing.
+Starting iteration 13.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.5147).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 9.0663).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 17.5785).
+Ending action T00_AOS.
+Ending iteration 13.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 30.38).
+Starting iteration 14.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.6232).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 11.9825).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 21.4598).
+Ending action T00_AOS.
+Ending iteration 14.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 37.27).
+Starting iteration 15.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.8231).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 8.5148).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 23.2960).
+Ending action T00_AOS.
+Ending iteration 15.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 35.81).
+Starting iteration 16.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.4757).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 8.9730).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(77): Notify: Transaction "T03_Purchase" ended with a "Pass" status (Duration: 27.9243).
+Ending action T00_AOS.
+Ending iteration 16.
+Warning: Iteration pacing cannot be reached (pace time = 30.00, actual time = 40.55).
+Starting iteration 17.
+Starting action T00_AOS.
+T00_AOS.c(36): Notify: Transaction "T01_HomePage" started.
+T00_AOS.c(38): Notify: Transaction "T01_HomePage" ended with a "Pass" status (Duration: 3.8451).
+T00_AOS.c(40): Notify: Transaction "T02_Shop" started.
+T00_AOS.c(42): Notify: Transaction "T02_Shop" ended with a "Pass" status (Duration: 11.2182).
+T00_AOS.c(44): Notify: Transaction "T03_Purchase" started.
+T00_AOS.c(63): Notify: Transaction "T03_Purchase" ended with a "Stop" status (Duration: 29.7367).
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
