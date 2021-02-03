@@ -1,6 +1,7 @@
 # aos-shopping
 
-This test can be used to create LoadRunner result sets, that can then can be used for demoing to show how specific issues can be created. A few notes:
+This test can be used to create LoadRunner result sets, that can then can be used for demoing to show how specific issues can be created. 
+It was formerly part of the dummy-vugen script. A few notes:
 
 It does not actually go against any website.
 Instead, all of the "transaction times" are created by using sleep statements. 
